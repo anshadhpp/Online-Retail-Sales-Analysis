@@ -1,4 +1,4 @@
-# 🛒 E-Commerce High-Value Transaction Classifier
+# 🛒 Online-Retail-Sales-Analysis
 
 A machine learning pipeline and exploratory analytics project built on real-world transnational online retail logs (541,909 transactions)[cite: 1]. This project cleans transactional anomalies, engineers temporal and spend features, and trains an end-to-end tuned **XGBoost Classifier** to predict whether a given transaction line item will result in a **High-Value Order (> £15.00)**[cite: 1].
 
